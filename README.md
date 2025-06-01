@@ -6,6 +6,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
