@@ -21,6 +21,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
