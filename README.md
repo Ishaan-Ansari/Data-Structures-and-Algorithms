@@ -18,6 +18,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0540-single-element-in-a-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
@@ -54,6 +55,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0540-single-element-in-a-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
