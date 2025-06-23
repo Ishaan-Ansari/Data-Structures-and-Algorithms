@@ -1,26 +1,37 @@
 class Solution:
+    def _get_maxi(self, mat:List[List[int]], m:int, mid:int)->int:
+        max_row_idx = -1
+        max_val = float('-inf')
+
+        for i in range(0, m):
+            if mat[i][mid]>max_val:
+                max_val = mat[i][mid]
+                max_row_idx = i
+
+        return max_row_idx
+
     def findPeakGrid(self, mat: List[List[int]]) -> List[int]:
         m, n = len(mat), len(mat[0])
-        left, right = 0, n-1
-        
-        while left <= right:
-            mid = left+(right-left)//2
-            max_row = max(range(m), key=lambda i: mat[i][mid])
-            mid_val = mat[max_row][mid]
+        low, high = 0, n-1
 
-            left_val = mat[max_row][mid-1] if mid-1>=0 else float('-inf')
-            right_val = mat[max_row][mid+1] if mid+1<n else float('-inf')
+        while(low<=high):
+            mid = low+(high-low)//2    # column
 
-            if mid_val>left_val and mid_val>right_val:
+            # get maximum in col
+            max_row = self._get_maxi(mat, m, mid)   # row
+
+            left = mat[max_row][mid-1] if mid-1>=0 else -1
+            right = mat[max_row][mid+1] if mid+1<n else -1
+
+            if mat[max_row][mid]>left and mat[max_row][mid]>right:
                 return [max_row, mid]
 
-            if left_val > mid_val:
-                right = mid-1
+            if left > mat[max_row][mid]:
+                high = mid-1
+
             else:
-                left = mid+1
-        
+                low = mid+1
+
         return [-1, -1]
 
 
-
-        
