@@ -108,4 +108,12 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
