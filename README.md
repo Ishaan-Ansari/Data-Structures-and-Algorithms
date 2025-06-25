@@ -47,6 +47,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
