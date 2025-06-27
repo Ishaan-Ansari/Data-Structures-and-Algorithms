@@ -10,9 +10,8 @@ class Solution:
             else:
                 break
 
-        for i in range(0, idx+1):
-            temp += num[i]
+        # for i in range(0, idx+1):         # remove manual concat
+        #     temp += num[i]
 
-        return temp
-
+        return num[0:idx+1]     # using string slicing instead
 
