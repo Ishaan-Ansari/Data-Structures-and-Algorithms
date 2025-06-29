@@ -13,10 +13,10 @@ class Solution:
         if len(s) != len(goal):
             return False
 
-        for i in range(0, len(s)):
-            s = self.rotate(s)
-            if s == goal:
+        rotated = s
+        for _ in range(len(s)):
+            rotated = self.rotate(rotated)
+            if rotated == goal:
                 return True
 
         return False
-                
