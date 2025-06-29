@@ -9,13 +9,16 @@ class Solution:
 
         return ''.join(ans)
 
+    def rotate2(self, ans:str):
+        return ans[1:]+ans[0]
+
     def rotateString(self, s: str, goal: str) -> bool:
         if len(s) != len(goal):
             return False
 
         rotated = s
         for _ in range(len(s)):
-            rotated = self.rotate(rotated)
+            rotated = self.rotate2(rotated)
             if rotated == goal:
                 return True
 
