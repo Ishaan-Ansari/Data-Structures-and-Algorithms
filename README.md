@@ -33,6 +33,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0151-reverse-words-in-a-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
@@ -136,4 +139,16 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
