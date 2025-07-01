@@ -1,17 +1,13 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        maxDepth = 0
-        cnt_out = cnt_in = 0
-        
-        for i in range(len(s)):
-            if s[i] == "(":
-                cnt_out += 1
-            elif s[i] == ")":
-                cnt_in += 1
-            
-            diff = cnt_out-cnt_in
+        current_depth = max_depth = 0
 
-            if diff>maxDepth:
-                maxDepth = diff
+        for ch in s:
+            if ch == "(":
+                current_depth += 1
+                if current_depth > max_depth:
+                    max_depth = current_depth
+            elif ch == ")":
+                current_depth-=1
 
-        return maxDepth
+        return max_depth
