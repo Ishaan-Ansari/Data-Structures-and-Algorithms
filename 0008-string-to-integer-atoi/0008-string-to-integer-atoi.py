@@ -8,11 +8,9 @@ class Solution:
         start = 0
         ans = 0
 
-        if s[0] == '-':
-            start = 1
-            neg = True
-        if s[0] == '+':
-            start = 1
+        if s[0] in ('-', '+'):
+            neg = (s[0] == '-')
+            start = True
 
         for i in range(start, len(s)):
             if s[i].isdigit():
