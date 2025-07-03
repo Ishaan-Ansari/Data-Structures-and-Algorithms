@@ -10,7 +10,7 @@ class Solution:
 
         if s[0] in ('-', '+'):
             neg = (s[0] == '-')
-            start = True
+            start = 1
 
         for i in range(start, len(s)):
             if s[i].isdigit():
