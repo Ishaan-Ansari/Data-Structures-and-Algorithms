@@ -35,6 +35,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0812-rotate-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -160,4 +162,5 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
