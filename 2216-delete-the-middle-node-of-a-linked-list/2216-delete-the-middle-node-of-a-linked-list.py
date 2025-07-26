@@ -8,16 +8,16 @@ class Solution:
         if head is None or head.next is None:
             return None
 
-        slow = head
-        fast = head
+        prev, slow, fast = head, head, head
 
         while fast and fast.next:
+            prev = slow
             slow = slow.next
             fast = fast.next.next
 
-        prev = head
-        while prev.next != slow:
-            prev = prev.next
+        # prev = head
+        # while prev.next != slow:
+        #     prev = prev.next
 
         prev.next = slow.next
 
