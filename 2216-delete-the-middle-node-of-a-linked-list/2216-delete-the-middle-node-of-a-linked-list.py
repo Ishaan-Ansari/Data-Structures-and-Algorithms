@@ -22,5 +22,6 @@ class Solution:
 
         prev.next = slow.next
 
+        del slow
         return head
         
