@@ -8,7 +8,8 @@ class Solution:
         if head is None or head.next is None:
             return None
 
-        prev, slow, fast = head, head, head
+        # prev, slow, fast = head, head, head
+        prev = slow = fast = head
 
         while fast and fast.next:
             prev = slow
