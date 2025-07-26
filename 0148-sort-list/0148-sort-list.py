@@ -27,14 +27,18 @@ class Solution:
         return head, mid
 
     def _merge_list(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = tail = ListNode(0)
+        dummy = tail = ListNode(0)  # dummy node init to 0
         while l1 and l2:
             if l1.val < l2.val:
-                tail.next, l1 = l1, l1.next
+                tail.next = l1
+                l1 = l1.next
             else:
-                tail.next, l2 = l2, l2.next
+                tail.next = l2
+                l2 = l2.next
+            # Advance tail to the node we just added
             tail = tail.next
 
+        # Whichever list still has nodes can just be tacked on.
         tail.next = l1 or l2
         return dummy.next
 
