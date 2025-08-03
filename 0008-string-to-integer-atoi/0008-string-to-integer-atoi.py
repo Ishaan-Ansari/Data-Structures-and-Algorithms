@@ -1,17 +1,16 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        s = s.strip()        
+        s = s.strip()
         if not s:
             return 0
 
         neg = False
-        start = 0
-        ans = 0
+        start, ans = 0, 0
 
         if s[0] in ('-', '+'):
             neg = (s[0] == '-')
             start = 1
-
+        
         for i in range(start, len(s)):
             if s[i].isdigit():
                 ans = ans*10+int(s[i])
