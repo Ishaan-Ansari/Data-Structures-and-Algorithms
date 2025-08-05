@@ -47,6 +47,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0002-add-two-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2050-count-good-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -206,4 +207,5 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
