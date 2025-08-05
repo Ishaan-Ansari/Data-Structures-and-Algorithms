@@ -11,6 +11,10 @@ class Solution:
 
         ans = (even_pos * odd_pos) % MOD
         return ans
+
+        # --------------------------------------------------------------------------------
+        # intermediate values are astronomically large before I finally reduce mod 10⁹+7.
+        # --------------------------------------------------------------------------------
         # if n % 2 == 0:
         #     even_pos = 5**(n//2)
         #     odd_pos = 4**(n//2)
@@ -20,4 +24,3 @@ class Solution:
 
         # ans = (even_pos*odd_pos) % INT_MAX
         # return ans
-
