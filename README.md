@@ -46,6 +46,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2050-count-good-numbers) |
@@ -211,10 +212,15 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
