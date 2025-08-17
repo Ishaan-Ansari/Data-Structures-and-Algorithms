@@ -11,6 +11,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -224,9 +225,11 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
