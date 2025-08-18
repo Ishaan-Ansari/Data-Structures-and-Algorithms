@@ -26,6 +26,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
@@ -74,6 +75,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
