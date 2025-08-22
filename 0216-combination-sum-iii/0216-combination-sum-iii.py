@@ -1,6 +1,7 @@
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
-        nums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        # nums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        nums = list(range(1, 10))
         ans = []
         
         def solve(curr, idx, pos, temp):
