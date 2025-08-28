@@ -12,6 +12,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0035-search-insert-position](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
@@ -250,6 +251,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0022-generate-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
