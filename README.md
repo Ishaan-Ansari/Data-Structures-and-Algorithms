@@ -19,6 +19,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
@@ -42,6 +43,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -146,6 +148,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0005-longest-palindromic-substring](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
@@ -169,6 +172,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0022-generate-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -189,6 +193,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -237,6 +242,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
