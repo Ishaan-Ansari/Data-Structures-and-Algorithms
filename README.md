@@ -6,6 +6,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -40,6 +41,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
