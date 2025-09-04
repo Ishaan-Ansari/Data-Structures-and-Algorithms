@@ -59,6 +59,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
@@ -239,6 +240,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0002-add-two-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
@@ -253,6 +255,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
