@@ -8,9 +8,11 @@ class Solution:
         return cnt
 
     def countBits(self, n: int) -> List[int]:
-        ans = []
-        for i in range(0, n+1):
-            cnt = self.cnt_binary_ones(i)
-            ans.append(cnt)
+        ans = [0]
+        for i in range(1, n+1):
+            ans.append(ans[i>>1] + i % 2)
+        # for i in range(0, n+1):
+        #     cnt = self.cnt_binary_ones(i)
+        #     ans.append(cnt)
         
         return ans
