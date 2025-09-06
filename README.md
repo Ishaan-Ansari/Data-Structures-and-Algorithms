@@ -154,6 +154,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0131-palindrome-partitioning](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -256,6 +257,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
