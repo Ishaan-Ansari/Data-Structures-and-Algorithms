@@ -1,34 +1,36 @@
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
-        INT_MAX = 2**31 - 1
+        # intialize the INT_MIN and INT_MAX
         INT_MIN = -2**31
+        INT_MAX = 2**31-1
 
-        # Handle edge case
+        # check for the edge case where dividend is INT_MIN and divisor is -1
+        # It can create a overflow error, we can simply return INT_MAX
         if dividend == INT_MIN and divisor == -1:
             return INT_MAX
 
-        negetive = (dividend < 0) != (divisor < 0)
+        # create a flag for negative quotient
+        negative = (dividend<0) != (divisor<0)
 
         dividend = abs(dividend)
         divisor = abs(divisor)
 
         quotient = 0
-
+        # smth.. smth..
+        # instead of substracting one-by-one we can multiply it by 2 
         while dividend >= divisor:
             temp = divisor
             multiple = 1
-            
-            # double the divisor until it's larger than dividend
-            while dividend >= (temp << 1):    
+
+            while(dividend >= (temp<<1)):
                 temp <<= 1
                 multiple <<= 1
-            
+
             dividend -= temp
             quotient += multiple
 
-        if negetive:
+        if negative:
             quotient = -quotient
 
-        # clamp to 32-bit integer range
         return max(INT_MIN, min(INT_MAX, quotient))
-        
+
