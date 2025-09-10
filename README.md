@@ -261,6 +261,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
 | ------- |
