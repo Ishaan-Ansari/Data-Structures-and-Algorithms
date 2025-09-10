@@ -4,7 +4,8 @@ class Solution:
         cnt = 0
 
         while x:
-            x &= x-1
+            rsbm = x & -x
+            x = x - rsbm
             cnt += 1
 
         return cnt
