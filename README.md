@@ -26,6 +26,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0152-maximum-product-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
@@ -63,6 +64,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0002-add-two-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
@@ -91,6 +93,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
