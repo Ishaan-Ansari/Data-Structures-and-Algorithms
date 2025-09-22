@@ -207,6 +207,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1078-remove-outermost-parentheses) |
@@ -299,6 +300,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
