@@ -30,6 +30,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0189-rotate-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
@@ -60,6 +61,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -72,6 +74,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0029-divide-two-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
@@ -112,6 +115,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -126,6 +130,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -286,6 +291,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0090-subsets-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0795-k-th-symbol-in-grammar) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
