@@ -7,4 +7,7 @@ class Solution:
             if nums[i] > nums[(i+1)%n]:
                 count_num_of_rotations += 1
 
+            if count_num_of_rotations > 1:
+                return False
+
         return count_num_of_rotations<=1
