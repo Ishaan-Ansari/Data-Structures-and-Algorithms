@@ -20,6 +20,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
@@ -218,6 +219,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -325,6 +327,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
