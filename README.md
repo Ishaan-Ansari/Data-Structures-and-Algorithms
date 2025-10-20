@@ -31,6 +31,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0162-find-peak-element](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -245,6 +246,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -328,6 +330,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,4 +343,12 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
