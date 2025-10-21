@@ -3,7 +3,7 @@ class StockSpanner:
         self.check = []
         
     def next(self, price: int) -> int:
-        num_of_days = 1
+        num_of_days = 1 # each day counts at least once
 
         while self.check and self.check[-1][0] <= price:
             num_of_days += self.check.pop()[1]
