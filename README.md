@@ -61,6 +61,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -268,6 +269,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0138-copy-list-with-random-pointer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
@@ -325,6 +327,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0937-online-stock-span) |
@@ -358,4 +361,8 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
