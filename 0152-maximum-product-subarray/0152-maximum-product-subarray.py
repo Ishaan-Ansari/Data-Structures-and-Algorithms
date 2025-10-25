@@ -1,29 +1,13 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        N = len(nums)
-        max_so_far = nums[0]
-        prefix = suffix = 1
+        best = worst = ans = nums[0]
 
-        for i in range(0, N):
-            if prefix == 0:
-                prefix = 1
-            if suffix == 0:
-                suffix = 1
+        for num in nums[1:]:
+            if num < 0:
+                best, worst = worst, best
+            
+            best = max(num, best*num)
+            worst = min(num, worst*num)
+            ans = max(ans, best)
 
-            prefix *= nums[i]
-            suffix *= nums[N-i-1]
-
-            max_so_far = max(max_so_far, max(prefix, suffix))
-
-        return max_so_far
-
-        # maxi = nums[0]
-
-        # for i in range(N):
-        #     pdt = 1
-        #     for j in range(i, N):
-        #         pdt *= nums[j]
-        #         maxi = max(maxi, pdt)
-
-        # return maxi
-        
+        return ans
