@@ -3,13 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        temp_1 = nums[0:len(nums)-k%len(nums)]
-        temp_2 = nums[len(nums)-k%len(nums):]
+        temp1 = nums[0:len(nums)-k%len(nums)]
+        temp2 = nums[len(nums)-k%len(nums):]
 
         nums.clear()
-        nums.extend(temp_2)
-        nums.extend(temp_1)
+        nums.extend(temp2)
+        nums.extend(temp1)
 
+              
+
+        
         # def rotate_once():
         #     last_elem = nums[-1]
         #     for i in range(len(nums)-1, 0, -1):
