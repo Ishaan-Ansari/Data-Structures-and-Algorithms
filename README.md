@@ -35,6 +35,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -66,6 +67,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -121,6 +123,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -154,6 +157,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0053-maximum-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -249,14 +253,17 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
@@ -365,4 +372,8 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
