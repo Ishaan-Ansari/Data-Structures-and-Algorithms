@@ -12,6 +12,7 @@ class Solution:
         q = PriorityQueue()
         
         for key, val in freq.items():
+            # PriorityQueue is a min-heap, so we push negative frequency
             q.put((-val, key))
 
         for _ in range(k):
