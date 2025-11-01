@@ -4,6 +4,7 @@ class Solution:
         l, res = 0, 0
         
         for i in range(len(s)):
+            # remove from left until current char is not in the set
             while s[i] in charSet:
                 charSet.remove(s[l])
                 l += 1
