@@ -20,6 +20,7 @@ class Solution:
             left -= 1
             right -= 1
 
+        # consider final configuration (0 from left, k from right)
         maxi = max(maxi, right_sum)
             
         return maxi
