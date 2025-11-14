@@ -46,6 +46,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0907-koko-eating-bananas](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -78,6 +79,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -283,6 +285,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -381,6 +384,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
