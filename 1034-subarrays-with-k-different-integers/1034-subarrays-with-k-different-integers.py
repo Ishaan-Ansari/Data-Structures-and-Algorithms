@@ -25,6 +25,9 @@ class Solution:
 
                 left += 1    
 
+            # All subarrays ending at 'right' are valid.
+            # (e.g., [left...right], [left+1...right], ... [right...right])
+            # There are (right - left + 1) such subarrays.
             res += (right - left + 1)                   
             
         return res
