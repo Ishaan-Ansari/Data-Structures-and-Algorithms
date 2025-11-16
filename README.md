@@ -65,6 +65,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
@@ -228,6 +229,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
@@ -381,6 +383,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
