@@ -6,21 +6,20 @@ class Solution:
         # TC - NLogN
         # ---------------------------------
 
-        # n = len(nums)
-        # if not nums:
-        #     return 0
+        n = len(nums)
+        if not nums:
+            return 0
 
         # nums.sort()
-
         # return nums[n - k]
 
         # To make it max heap simply reverse the sign
         max_heap = [-n for n in nums]
         heapq.heapify(max_heap)
 
-        while k:
+        KthMaxi = None
+        for _ in range(k):
             KthMax = heapq.heappop(max_heap)
-            k -= 1
 
         return -KthMax
 
