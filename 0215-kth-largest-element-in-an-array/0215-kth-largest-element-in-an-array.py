@@ -14,7 +14,7 @@ class Solution:
         # return nums[n - k]
 
         # To make it max heap simply reverse the sign
-        max_heap = [-n for n in nums]
+        max_heap = [-x for x in nums]
         heapq.heapify(max_heap)
 
         KthMaxi = None
