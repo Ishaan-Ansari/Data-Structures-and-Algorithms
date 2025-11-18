@@ -171,6 +171,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -188,6 +189,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -277,6 +279,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -298,6 +301,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
