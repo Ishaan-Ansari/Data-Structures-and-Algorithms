@@ -78,6 +78,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
@@ -287,6 +288,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -318,6 +320,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0234-palindrome-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -372,6 +375,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0146-lru-cache](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
