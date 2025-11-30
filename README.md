@@ -54,6 +54,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1370-count-number-of-nice-subarrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
@@ -425,4 +426,16 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
