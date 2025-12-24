@@ -1,26 +1,22 @@
 from collections import defaultdict
-from queue import PriorityQueue
+import heapq as hq
 
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         freq = defaultdict(int)
-        ans = []
 
+        # frequency of each element
         for num in nums:
             freq[num] += 1
 
-        q = PriorityQueue()
-        
-        for key, val in freq.items():
-            # PriorityQueue is a min-heap, so we push negative frequency
-            q.put((-val, key))
+        # push the element in heap
+        heap = []
+        for num, f in freq.items():
+            hq.heappush(heap, (f, num))
+            if len(heap)>k:
+                hq.heappop(heap)
 
-        for _ in range(k):
-            if not q.empty():
-                ans.append(q.get()[1])
-
-        return  ans
-
-
-
+        res = [num for (_f, num) in heap]
+            
+        return res
         
