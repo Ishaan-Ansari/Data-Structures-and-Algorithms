@@ -38,6 +38,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0283-move-zeroes](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
@@ -133,6 +134,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0283-move-zeroes](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -147,6 +149,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0295-find-median-from-data-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -221,6 +224,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
