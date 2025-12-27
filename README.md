@@ -46,6 +46,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0735-asteroid-collision](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0860-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
@@ -226,6 +227,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
