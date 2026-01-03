@@ -1,25 +1,31 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        low = 0
-        high = 0
+        op = []
+        st = []
 
-        for ch in s:
-            if ch == '(':
-                low += 1
-                high += 1
-            elif ch == ')':
-                low -= 1
-                high -= 1
+        n = len(s)
 
-            else: 
-                low -= 1
-                high += 1
+        for i in range(n):
+            if s[i] == '(':
+                op.append(i)
 
-            if high < 0:
+            elif s[i] == '*':
+                st.append(i)
+            
+            else:
+                if op:
+                    op.pop()
+                elif st:
+                    st.pop()
+                else:
+                    return False
+
+        while op and st:
+            if op[-1] < st[-1]:
+                op.pop()
+                st.pop()
+            
+            else:
                 return False
 
-
-            if low < 0:
-                low = 0
-
-        return low == 0
+        return len(op)==0
