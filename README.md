@@ -16,6 +16,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0040-combination-sum-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
@@ -213,6 +214,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0005-longest-palindromic-substring](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
@@ -224,6 +226,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
