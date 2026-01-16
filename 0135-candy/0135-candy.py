@@ -18,12 +18,13 @@ class Solution:
             else:
                 right[j] = 1
 
+        total = sum(max(l, r) for l, r in zip(left, right))
 
-        sum = 0
+        # sum = 0
 
-        for i in range(n):
-            sum += max(left[i], right[i])
+        # for i in range(n):
+        #     sum += max(left[i], right[i])
 
-        return sum
+        return total
 
         
