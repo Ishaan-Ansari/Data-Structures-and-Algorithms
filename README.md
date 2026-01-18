@@ -17,6 +17,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0051-n-queens](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
@@ -145,6 +146,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
