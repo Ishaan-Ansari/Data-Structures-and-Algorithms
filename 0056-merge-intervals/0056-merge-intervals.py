@@ -1,7 +1,6 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         ans = []
-        i = 1
         n = len(intervals)
 
         if not intervals:
