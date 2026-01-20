@@ -3,6 +3,7 @@ class Solution:
         if not intervals:
             return 0
 
+        # Always keep the interval that finishes earliest
         intervals.sort(key=lambda kv:kv[1])
 
         n = len(intervals)
