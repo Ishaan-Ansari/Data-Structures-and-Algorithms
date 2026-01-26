@@ -5,18 +5,20 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def solve(self, root: Optional[TreeNode]) -> List[int]:
-        if not root:
-            return
-        
-        self.ans.append(root.val)
-        self.solve(root.left)
-        self.solve(root.right)
-
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        self.ans = []
-        self.solve(root)
-        return self.ans
-        
+        # since it's a DFS correct data strucuture to use here is Stack
+        if not root:
+            return []
 
+        res = []
+        stack = [root]
+
+        while stack:
+            node = stack.pop()
+            if node:
+                res.append(node.val)
+                stack.append(node.right)    # appending right first, so that left comes up first
+                stack.append(node.left)
+
+        return res
         
