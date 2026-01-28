@@ -9,7 +9,17 @@ class Solution:
         if not root:
             return 0
 
-        leftT = self.maxDepth(root.left)
-        rightT = self.maxDepth(root.right)
+        q = deque([root])
 
-        return max(leftT, rightT)+1
+        level = 0
+        while q:
+            for i in range(len(q)):
+                node = q.popleft()
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            level += 1
+
+        return level
+        
