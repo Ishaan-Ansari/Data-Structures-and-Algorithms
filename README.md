@@ -92,6 +92,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -159,6 +160,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
@@ -408,6 +410,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -495,6 +498,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -514,6 +518,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -522,4 +527,5 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
