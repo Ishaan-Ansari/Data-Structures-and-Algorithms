@@ -9,6 +9,7 @@ class Solution:
         if not root:
             return []
 
+        # The 'node_list' will store tuples: (column, row, value)
         node_list = []
 
         def dfs(node, col, row):
