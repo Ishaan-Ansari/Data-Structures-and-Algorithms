@@ -507,6 +507,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -531,6 +532,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
