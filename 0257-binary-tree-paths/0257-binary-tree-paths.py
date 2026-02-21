@@ -13,11 +13,10 @@ class Solution:
         if not root:
             return 
 
-        num = str(root.val)
-        self.path.append(num + "->")
+        self.path.append(str(root.val))
 
         if not root.left and not root.right:
-            self.res.append("".join(self.path)[:-2])
+            self.res.append("->".join(self.path))
         else:
             self.solve(root.left)
             self.solve(root.right)
