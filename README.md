@@ -271,6 +271,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0151-reverse-words-in-a-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
@@ -396,6 +397,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0090-subsets-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
@@ -412,6 +414,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -503,6 +506,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -528,6 +532,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
