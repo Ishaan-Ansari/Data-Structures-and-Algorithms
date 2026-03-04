@@ -106,6 +106,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0002-add-two-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
@@ -227,6 +228,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0053-maximum-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -500,6 +502,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
@@ -524,11 +527,13 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
