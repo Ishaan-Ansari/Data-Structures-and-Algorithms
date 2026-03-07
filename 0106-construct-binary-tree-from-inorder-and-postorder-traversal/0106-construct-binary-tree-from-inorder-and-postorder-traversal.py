@@ -15,7 +15,10 @@ class Solution:
         # Identitfy from where the tree is to be splitted
         mid = inorder.index(postorder[-1])
 
+        # Take the first nodes
         root.left = self.buildTree(inorder[:mid], postorder[:mid])
+
+        # Start after the left subtree's nodes, and stop BEFORE the last element (which was our root).
         root.right = self.buildTree(inorder[mid+1:], postorder[mid:-1])
         
         return root
