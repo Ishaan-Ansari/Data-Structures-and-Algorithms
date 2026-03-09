@@ -284,6 +284,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0242-valid-anagram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
@@ -427,6 +428,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0199-binary-tree-right-side-view](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -439,6 +441,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0155-min-stack](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0937-online-stock-span) |
@@ -525,6 +528,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0222-count-complete-tree-nodes](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -558,6 +562,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0222-count-complete-tree-nodes](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -575,6 +580,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
