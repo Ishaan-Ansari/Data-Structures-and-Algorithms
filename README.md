@@ -302,6 +302,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0084-largest-rectangle-in-histogram](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
@@ -355,6 +356,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0023-merge-k-sorted-lists](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -422,6 +424,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -521,6 +524,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -555,6 +559,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
