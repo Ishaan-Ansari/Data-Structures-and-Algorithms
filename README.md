@@ -50,6 +50,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
@@ -472,6 +473,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
