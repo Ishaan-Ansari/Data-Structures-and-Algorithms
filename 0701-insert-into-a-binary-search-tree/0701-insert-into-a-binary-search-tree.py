@@ -9,16 +9,21 @@ class Solution:
         if not root:
             return TreeNode(val)
 
-        if root.val<val and root.right is None:
-            root.right = TreeNode(val)
+        if val > root.val:
+            root.right = self.insertIntoBST(root.right, val)
+        else:
+            root.left = self.insertIntoBST(root.left, val)
 
-        elif root.val>val and root.left is None:
-            root.left = TreeNode(val)
+        # if root.val<val and root.right is None:
+        #     root.right = TreeNode(val)
 
-        elif root.val>val:
-            self.insertIntoBST(root.left, val)
+        # elif root.val>val and root.left is None:
+        #     root.left = TreeNode(val)
+
+        # elif root.val>val:
+        #     self.insertIntoBST(root.left, val)
         
-        elif root.val<val:
-            self.insertIntoBST(root.right, val)
+        # elif root.val<val:
+        #     self.insertIntoBST(root.right, val)
 
         return root
