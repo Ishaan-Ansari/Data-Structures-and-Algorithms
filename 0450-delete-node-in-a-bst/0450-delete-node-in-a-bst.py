@@ -21,7 +21,6 @@ class Solution:
                 return root.left
 
             # Case 3: Node has 2 children
-            # Find the inorder successor (smallest node in the right subtree)
             curr = root.right
             while curr.left:
                 curr = curr.left
