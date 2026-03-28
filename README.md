@@ -59,6 +59,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0907-koko-eating-bananas](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -318,6 +319,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0678-valid-parenthesis-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -469,6 +471,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -553,6 +556,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -566,6 +570,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0700-search-in-a-binary-search-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -600,6 +605,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
