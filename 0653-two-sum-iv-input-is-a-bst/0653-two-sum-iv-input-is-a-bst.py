@@ -5,29 +5,25 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.arr = []
-
-    def _inorder_traversal(self, node):
-        if not node:
-            return 
-        
-        self._inorder_traversal(node.left)
-        self.arr.append(node.val)
-        self._inorder_traversal(node.right)
-
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        if not root:
-            return False
+        arr = []
 
-        self._inorder_traversal(root)
+        def inorder_traversal(node):
+            if not node:
+                return 
+            
+            inorder_traversal(node.left)
+            arr.append(node.val)
+            inorder_traversal(node.right)
+
+        inorder_traversal(root)
 
         check = {}
-        for idx in range(len(self.arr)):
-            if k-self.arr[idx] in check:
+        for idx in range(len(arr)):
+            if k-arr[idx] in check:
                 return True
             else:
-                check[self.arr[idx]] = idx
+                check[arr[idx]] = idx
 
         return False
         
