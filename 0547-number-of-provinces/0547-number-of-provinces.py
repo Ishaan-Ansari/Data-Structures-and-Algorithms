@@ -4,17 +4,19 @@ class Solution:
         visited = set()
         provinces = 0
 
-        def dfs(node):
-            for neighbor in range(n):
-                if isConnected[node][neighbor] == 1 and neighbor not in visited:
-                    visited.add(neighbor)
-                    dfs(neighbor)
+        def dfs(city):
+            for friend in range(n):
+                if isConnected[city][friend] == 1 and friend not in visited:
+                    visited.add(friend)
+                    dfs(friend)
 
 
-        for city in range(n):
-            if city not in visited:
+        for i in range(n):
+            if i not in visited:
                 provinces += 1
-                visited.add(city)
-                dfs(city)
+                visited.add(i)
+                dfs(i)
+
+
 
         return provinces
