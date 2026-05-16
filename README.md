@@ -52,6 +52,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0496-next-greater-element-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
@@ -136,6 +137,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0085-maximal-rectangle](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
@@ -253,6 +255,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0338-counting-bits](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -646,6 +649,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0200-number-of-islands](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
