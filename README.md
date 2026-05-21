@@ -65,6 +65,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0966-binary-subarrays-with-sum](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -142,6 +143,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0542-01-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -466,6 +468,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0733-flood-fill](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
@@ -661,6 +664,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Iterator
 |  |
@@ -672,6 +676,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0130-surrounded-regions](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
