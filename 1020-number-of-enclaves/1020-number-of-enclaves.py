@@ -4,6 +4,7 @@ class Solution:
 
         q = deque()
 
+        # STEP 1: Find all boundary land cells and queue them up
         for i in range(M):
             for j in range(N):
                 if (grid[i][j]==1 and (i==0 or i==M-1 or j==0 or j==N-1)):
@@ -12,6 +13,7 @@ class Solution:
 
         directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
+        # STEP 2: Flood inward from the boundaries using BFS
         while q:
             r, c = q.popleft()
             for dr, dc in directions:
@@ -22,6 +24,7 @@ class Solution:
                     grid[new_r][new_c]=0
                     q.append((new_r, new_c))
 
+        # STEP 3: Count the surviving enclaves
         ans = 0
         for i in range(M):
             for j in range(N):
