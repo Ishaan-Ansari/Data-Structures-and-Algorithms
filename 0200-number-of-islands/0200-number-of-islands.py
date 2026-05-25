@@ -1,27 +1,26 @@
 class Solution:
-    def dfs(self, grid, i, j, m, n):
-        if i<0 or j<0 or i>=m or j>=n or grid[i][j]=='0':
-            return
-
-        grid[i][j] = '0'
-        self.dfs(grid, i+1, j, m, n)
-        self.dfs(grid, i-1, j, m, n)
-        self.dfs(grid, i, j+1, m, n)
-        self.dfs(grid, i, j-1, m, n)
-
-
     def numIslands(self, grid: List[List[str]]) -> int:
-        m = len(grid)
-        n = len(grid[0])
-        cnt = 0
+        M, N = len(grid), len(grid[0])
+        num_of_islands = 0
 
-        for i in range(m):
-            for j in range(n):
-                if grid[i][j] == '1':
-                    cnt += 1
-                    self.dfs(grid, i, j, m, n)
+        directions=[(1,0), (0, 1), (0, -1), (-1, 0)]
+
+        for i in range(M):
+            for j in range(N):
+                if grid[i][j]=='1':
+                    num_of_islands += 1
+                    q = deque()
+                    q.append((i, j))
+                    grid[i][j] = '0'
+
+                    while q:
+                        R, C = q.popleft()
+                        for dr, dc in directions:
+                            new_r, new_c = R+dr, C+dc
+                            if 0 <= new_r < M and 0 <= new_c < N:
+                                if grid[new_r][new_c]=='1':
+                                    grid[new_r][new_c]='0'
+                                    q.append((new_r, new_c))
 
 
-        return cnt
-
-
+        return num_of_islands
