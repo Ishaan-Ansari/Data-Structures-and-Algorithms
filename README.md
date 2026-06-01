@@ -78,6 +78,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0846-hand-of-straights](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
