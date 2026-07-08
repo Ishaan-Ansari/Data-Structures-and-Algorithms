@@ -16,10 +16,9 @@ class Solution:
             if node == destination:
                 return True
 
-            if not visited[node]:
-                visited[node] = 1
-                for neighbor in adj_lst[node]:
-                    if not visited[neighbor]:
-                        q.append(neighbor)
+            for neighbor in adj_lst[node]:
+                if not visited[neighbor]:
+                    visited[neighbor] = 1
+                    q.append(neighbor)
                     
         return False
