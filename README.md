@@ -478,6 +478,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
@@ -679,6 +680,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Iterator
 |  |
@@ -702,9 +704,11 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0785-is-graph-bipartite](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
