@@ -69,6 +69,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -146,6 +147,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0733-flood-fill](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -678,6 +680,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
