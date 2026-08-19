@@ -76,6 +76,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1584-min-cost-to-connect-all-points](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
@@ -148,6 +149,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -216,6 +218,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -365,6 +368,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0355-design-twitter](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -479,6 +483,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -682,6 +687,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -697,6 +703,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0547-number-of-provinces](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -714,4 +721,8 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0207-course-schedule](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
