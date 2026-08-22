@@ -270,6 +270,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0435-non-overlapping-intervals](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -368,6 +369,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0355-design-twitter](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -479,6 +481,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
@@ -681,6 +684,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
@@ -712,6 +716,7 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 | [0210-course-schedule-ii](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/2360-longest-cycle-in-a-graph) |
@@ -725,4 +730,8 @@ Dedicated repo for all my algorithmic problems I tackle, serving as a comprehens
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishaan-Ansari/Data-Structures-and-Algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
