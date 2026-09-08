@@ -49,7 +49,8 @@ class Sorting:
   def _quick_sort(self, arr=None):
     if arr is None:
       arr = self.nums
-      
+
+    # At what point is this problem so ridiculously small that the answer is obvious?
     if len(arr) <= 1:
       return arr
 
