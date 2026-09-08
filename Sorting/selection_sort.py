@@ -45,11 +45,25 @@ class Sorting:
       i += 1
 
     return self.nums
-    
+
+  def _quick_sort(self, arr=None):
+    if arr is None:
+      arr = self.nums
+      
+    if len(arr) <= 1:
+      return arr
+
+    pivot = arr[len(arr)//2]
+
+    less = [x for x in arr if x<pivot]
+    equal = [x for x in arr if x==pivot]
+    greater = [x for x in arr if x>pivot]
+
+    return self._quick_sort(less) + equal + self._quick_sort(greater)
 
 
 if __name__ == '__main__':
-    nums = [7, 4, 1, 5, 3]
+    nums = [4,6,2,5,7,9,1,3]
     srt = Sorting(nums)
     # print(srt._selection_sort())
-    print(srt._insertion_sort())  
+    print(srt._quick_sort())    
