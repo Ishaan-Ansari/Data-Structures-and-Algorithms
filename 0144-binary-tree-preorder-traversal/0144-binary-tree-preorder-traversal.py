@@ -5,20 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        # since it's a DFS correct data strucuture to use here is Stack
-        if not root:
-            return []
+    def __init__(self):
+        self.ans = []
 
-        res = []
-        stack = [root]
-
-        while stack:
-            node = stack.pop()
-            if node:
-                res.append(node.val)
-                stack.append(node.right)    # appending right first, so that left comes up first
-                stack.append(node.left)
-
-        return res
+    def preorderTraversal(self, root: TreeNode | None) -> list[int]:
+        # root -> left -> right
+        if root is None:
+            return self.ans
         
+        self.ans.append(root.val)
+        self.preorderTraversal(root.left)
+        self.preorderTraversal(root.right)
+
+        return self.ans
